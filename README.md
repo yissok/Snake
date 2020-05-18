@@ -1,1 +1,1 @@
-School project from 2012
+go to https://www.onlinegdb.com/online_pascal_compiler, paste and play
